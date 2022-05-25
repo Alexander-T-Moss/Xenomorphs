@@ -1,0 +1,15 @@
+/Users/alexanderthorunnarson-moss/Documents/C# Programming/Xenomorphs/Xenomorphs/bin/Debug/net6.0/Xenomorphs
+/Users/alexanderthorunnarson-moss/Documents/C# Programming/Xenomorphs/Xenomorphs/bin/Debug/net6.0/Xenomorphs.deps.json
+/Users/alexanderthorunnarson-moss/Documents/C# Programming/Xenomorphs/Xenomorphs/bin/Debug/net6.0/Xenomorphs.runtimeconfig.json
+/Users/alexanderthorunnarson-moss/Documents/C# Programming/Xenomorphs/Xenomorphs/bin/Debug/net6.0/Xenomorphs.dll
+/Users/alexanderthorunnarson-moss/Documents/C# Programming/Xenomorphs/Xenomorphs/bin/Debug/net6.0/Xenomorphs.pdb
+/Users/alexanderthorunnarson-moss/Documents/C# Programming/Xenomorphs/Xenomorphs/obj/Debug/net6.0/Xenomorphs.csproj.AssemblyReference.cache
+/Users/alexanderthorunnarson-moss/Documents/C# Programming/Xenomorphs/Xenomorphs/obj/Debug/net6.0/Xenomorphs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexanderthorunnarson-moss/Documents/C# Programming/Xenomorphs/Xenomorphs/obj/Debug/net6.0/Xenomorphs.AssemblyInfoInputs.cache
+/Users/alexanderthorunnarson-moss/Documents/C# Programming/Xenomorphs/Xenomorphs/obj/Debug/net6.0/Xenomorphs.AssemblyInfo.cs
+/Users/alexanderthorunnarson-moss/Documents/C# Programming/Xenomorphs/Xenomorphs/obj/Debug/net6.0/Xenomorphs.csproj.CoreCompileInputs.cache
+/Users/alexanderthorunnarson-moss/Documents/C# Programming/Xenomorphs/Xenomorphs/obj/Debug/net6.0/Xenomorphs.dll
+/Users/alexanderthorunnarson-moss/Documents/C# Programming/Xenomorphs/Xenomorphs/obj/Debug/net6.0/refint/Xenomorphs.dll
+/Users/alexanderthorunnarson-moss/Documents/C# Programming/Xenomorphs/Xenomorphs/obj/Debug/net6.0/Xenomorphs.pdb
+/Users/alexanderthorunnarson-moss/Documents/C# Programming/Xenomorphs/Xenomorphs/obj/Debug/net6.0/Xenomorphs.genruntimeconfig.cache
+/Users/alexanderthorunnarson-moss/Documents/C# Programming/Xenomorphs/Xenomorphs/obj/Debug/net6.0/ref/Xenomorphs.dll
